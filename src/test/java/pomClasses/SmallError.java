@@ -1,5 +1,6 @@
 package pomClasses;
 
-public class SmallError {
+public class SmallError 
+{
 
 }
