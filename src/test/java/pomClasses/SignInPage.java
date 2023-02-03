@@ -66,6 +66,10 @@ public class SignInPage
 	{
 		System.out.println("=======");
 	}
+	public void clicknLogin(String a)
+	{
+		System.out.println("-------------");
+	}
 	
 
 
