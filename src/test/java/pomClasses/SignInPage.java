@@ -69,6 +69,7 @@ public class SignInPage
 	public void clicknLogin(String a)
 	{
 		System.out.println("-------------");
+		System.out.println("Studying pull request");
 	}
 	
 
