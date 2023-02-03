@@ -62,6 +62,11 @@ public class SignInPage
 		
 	}
 	
+	public void clickonLogin()
+	{
+		System.out.println("=======");
+	}
+	
 
 
 	
