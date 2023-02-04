@@ -10,7 +10,10 @@ public class MergeStudy
 		System.out.println("=========");
 		System.out.println("Study....");
 		System.out.println("Study of push");
-		System.out.println("New branch created in gitHub");
+
+		System.out.println("added the branch named update ");
+
+
 
 	}
 
