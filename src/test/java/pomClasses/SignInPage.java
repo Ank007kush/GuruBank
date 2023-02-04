@@ -58,6 +58,7 @@ public class SignInPage
 		//driver.switchTo().alert().accept();
 		alt.accept();
 		Reporter.log("Allert is handeled", true);
+		
 		return eText;
 		
 	}
@@ -72,6 +73,8 @@ public class SignInPage
 		System.out.println("Studying pull request");
 		
 	}
+	
+
 	
 
 
